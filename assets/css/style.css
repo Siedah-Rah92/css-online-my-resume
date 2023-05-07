@@ -1,0 +1,11 @@
+/* remove this code and add your own! */
+.greeting {
+    color: black;
+    font-size: 30px;
+  }
+  
+  .fit-picture {
+    width: 200px;
+    display: flex;
+    justify-content: right;
+  }
